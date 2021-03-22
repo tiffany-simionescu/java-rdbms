@@ -1,0 +1,1 @@
+I have successfully completed this assignment locally. I was able to clone the sql file into the northwind database, and perform the SQL commands with the correct responses. 
